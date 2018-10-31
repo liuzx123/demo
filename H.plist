@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.10.9.98/javawebframework/framework/imes-hand/H.ipa</string>
+					<string>http://10.10.9.98:8080/javawebframework/framework/imes-hand/H.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
